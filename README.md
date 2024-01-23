@@ -7,4 +7,4 @@ When the seller "lists" and item for sale, they deposit the price of the item wh
 This system protexts both the buyer and the seller by making sure the item has been sent and is in good condition, as well as making sure payment has been made. 
 
 This contract was written and tested on Remix IDE  
-This contract was written with reference to [This YouTube tutorial] (https://www.youtube.com/watch?v=jYBXD3FeOLI)
+This contract was written with reference to [This YouTube tutorial](https://www.youtube.com/watch?v=jYBXD3FeOLI)
